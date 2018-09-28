@@ -1,0 +1,384 @@
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator initLogger
+INFO: Yayy! Logger initiated!
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Generating tasks =>
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#0 | Time to Execute : 13s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#1 | Time to Execute : 14s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#2 | Time to Execute : 10s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#3 | Time to Execute : 10s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#4 | Time to Execute : 11s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#5 | Time to Execute : 12s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#6 | Time to Execute : 13s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#7 | Time to Execute : 10s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#8 | Time to Execute : 12s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#9 | Time to Execute : 11s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#10 | Time to Execute : 11s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#11 | Time to Execute : 12s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#12 | Time to Execute : 11s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#13 | Time to Execute : 14s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#14 | Time to Execute : 11s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#15 | Time to Execute : 10s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#16 | Time to Execute : 11s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#17 | Time to Execute : 12s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#18 | Time to Execute : 10s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#19 | Time to Execute : 12s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#20 | Time to Execute : 13s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#21 | Time to Execute : 11s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#22 | Time to Execute : 14s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#23 | Time to Execute : 11s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#24 | Time to Execute : 13s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#25 | Time to Execute : 14s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#26 | Time to Execute : 11s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#27 | Time to Execute : 10s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#28 | Time to Execute : 14s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#29 | Time to Execute : 14s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#30 | Time to Execute : 14s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator generateTasks
+INFO: Task Generated => task#31 | Time to Execute : 14s
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator executeParallelTasks
+INFO: Total number of tasks => 32
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator executeUnitTask
+INFO: Executing unit task => task#0
+Sep 28, 2018 11:25:40 AM com.aman.TaskInitiator executeUnitTask
+INFO: Expected time of completion: 13s
+Sep 28, 2018 11:25:53 AM com.aman.TaskInitiator executeUnitTask
+INFO: Execution completed => task#0 executed successfully! Wait for 3 seconds before we move further.
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#2
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#7
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#6
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#5
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#4
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#6. Available permits: 1
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#4. Available permits: 0
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#3
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#1
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#15
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#6
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#18
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#4
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#14
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#13
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#12
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#11
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#25
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#26
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#7. Available permits: 2
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#10
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#29
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#30
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#2. Available permits: 3
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#9
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#8
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#2
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#7
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#28
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#27
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#24
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#23
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#22
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#21
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#20
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#19
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#17
+Sep 28, 2018 11:25:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Waiting for lock => task#16
+Sep 28, 2018 11:26:06 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#2
+Sep 28, 2018 11:26:06 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#7
+Sep 28, 2018 11:26:06 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#5. Available permits: 0
+Sep 28, 2018 11:26:06 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#7. Available permits: 1
+Sep 28, 2018 11:26:06 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#3. Available permits: 0
+Sep 28, 2018 11:26:06 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#2. Available permits: 1
+Sep 28, 2018 11:26:06 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#3
+Sep 28, 2018 11:26:06 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#5
+Sep 28, 2018 11:26:07 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#4
+Sep 28, 2018 11:26:07 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#4. Available permits: 1
+Sep 28, 2018 11:26:07 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#1. Available permits: 0
+Sep 28, 2018 11:26:07 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#1
+Sep 28, 2018 11:26:09 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#6
+Sep 28, 2018 11:26:09 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#6. Available permits: 1
+Sep 28, 2018 11:26:09 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#15. Available permits: 0
+Sep 28, 2018 11:26:09 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#15
+Sep 28, 2018 11:26:16 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#3
+Sep 28, 2018 11:26:16 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#3. Available permits: 1
+Sep 28, 2018 11:26:16 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#18. Available permits: 0
+Sep 28, 2018 11:26:16 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#18
+Sep 28, 2018 11:26:18 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#5
+Sep 28, 2018 11:26:18 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#5. Available permits: 1
+Sep 28, 2018 11:26:18 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#14. Available permits: 0
+Sep 28, 2018 11:26:18 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#14
+Sep 28, 2018 11:26:19 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#15
+Sep 28, 2018 11:26:19 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#15. Available permits: 1
+Sep 28, 2018 11:26:19 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#13. Available permits: 0
+Sep 28, 2018 11:26:19 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#13
+Sep 28, 2018 11:26:21 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#1
+Sep 28, 2018 11:26:21 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#1. Available permits: 1
+Sep 28, 2018 11:26:21 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#12. Available permits: 0
+Sep 28, 2018 11:26:21 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#12
+Sep 28, 2018 11:26:26 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#18
+Sep 28, 2018 11:26:26 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#18. Available permits: 1
+Sep 28, 2018 11:26:26 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#11. Available permits: 0
+Sep 28, 2018 11:26:26 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#11
+Sep 28, 2018 11:26:29 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#14
+Sep 28, 2018 11:26:29 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#14. Available permits: 1
+Sep 28, 2018 11:26:29 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#25. Available permits: 0
+Sep 28, 2018 11:26:29 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#25
+Sep 28, 2018 11:26:32 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#12
+Sep 28, 2018 11:26:32 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#12. Available permits: 1
+Sep 28, 2018 11:26:32 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#26. Available permits: 0
+Sep 28, 2018 11:26:32 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#26
+Sep 28, 2018 11:26:33 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#13
+Sep 28, 2018 11:26:33 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#13. Available permits: 1
+Sep 28, 2018 11:26:33 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#10. Available permits: 0
+Sep 28, 2018 11:26:33 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#10
+Sep 28, 2018 11:26:38 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#11
+Sep 28, 2018 11:26:38 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#11. Available permits: 1
+Sep 28, 2018 11:26:38 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#29. Available permits: 0
+Sep 28, 2018 11:26:38 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#29
+Sep 28, 2018 11:26:43 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#26
+Sep 28, 2018 11:26:43 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#26. Available permits: 1
+Sep 28, 2018 11:26:43 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#30. Available permits: 0
+Sep 28, 2018 11:26:43 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#30
+Sep 28, 2018 11:26:43 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#25
+Sep 28, 2018 11:26:43 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#25. Available permits: 1
+Sep 28, 2018 11:26:43 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#9. Available permits: 0
+Sep 28, 2018 11:26:43 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#9
+Sep 28, 2018 11:26:44 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#10
+Sep 28, 2018 11:26:44 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#10. Available permits: 1
+Sep 28, 2018 11:26:44 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#8. Available permits: 0
+Sep 28, 2018 11:26:44 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#8
+Sep 28, 2018 11:26:52 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#29
+Sep 28, 2018 11:26:52 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#29. Available permits: 1
+Sep 28, 2018 11:26:52 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#28. Available permits: 0
+Sep 28, 2018 11:26:52 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#28
+Sep 28, 2018 11:26:54 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#9
+Sep 28, 2018 11:26:54 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#9. Available permits: 1
+Sep 28, 2018 11:26:54 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#27. Available permits: 0
+Sep 28, 2018 11:26:54 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#27
+Sep 28, 2018 11:26:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#8
+Sep 28, 2018 11:26:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#8. Available permits: 1
+Sep 28, 2018 11:26:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#24. Available permits: 0
+Sep 28, 2018 11:26:56 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#24
+Sep 28, 2018 11:26:57 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#30
+Sep 28, 2018 11:26:57 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#30. Available permits: 1
+Sep 28, 2018 11:26:57 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#23. Available permits: 0
+Sep 28, 2018 11:26:57 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#23
+Sep 28, 2018 11:27:04 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#27
+Sep 28, 2018 11:27:04 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#27. Available permits: 1
+Sep 28, 2018 11:27:04 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#22. Available permits: 0
+Sep 28, 2018 11:27:04 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#22
+Sep 28, 2018 11:27:06 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#28
+Sep 28, 2018 11:27:06 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#28. Available permits: 1
+Sep 28, 2018 11:27:06 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#21. Available permits: 0
+Sep 28, 2018 11:27:06 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#21
+Sep 28, 2018 11:27:08 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#23
+Sep 28, 2018 11:27:08 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#23. Available permits: 1
+Sep 28, 2018 11:27:08 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#20. Available permits: 0
+Sep 28, 2018 11:27:08 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#20
+Sep 28, 2018 11:27:09 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#24
+Sep 28, 2018 11:27:09 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#24. Available permits: 1
+Sep 28, 2018 11:27:09 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#19. Available permits: 0
+Sep 28, 2018 11:27:09 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#19
+Sep 28, 2018 11:27:17 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#21
+Sep 28, 2018 11:27:17 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#21. Available permits: 1
+Sep 28, 2018 11:27:17 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#17. Available permits: 0
+Sep 28, 2018 11:27:17 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#17
+Sep 28, 2018 11:27:18 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#22
+Sep 28, 2018 11:27:18 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#22. Available permits: 1
+Sep 28, 2018 11:27:18 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Lock acquired by task#16. Available permits: 0
+Sep 28, 2018 11:27:18 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Executing task#16
+Sep 28, 2018 11:27:21 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#19
+Sep 28, 2018 11:27:21 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#19. Available permits: 1
+Sep 28, 2018 11:27:21 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#20
+Sep 28, 2018 11:27:21 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#20. Available permits: 2
+Sep 28, 2018 11:27:29 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#16
+Sep 28, 2018 11:27:29 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#16. Available permits: 3
+Sep 28, 2018 11:27:29 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Finished executing task#17
+Sep 28, 2018 11:27:29 AM com.aman.TaskInitiator$ExecuteMultithreadedTasks run
+INFO: Releasing Lock by task#17. Available permits: 4
+Sep 28, 2018 11:27:29 AM com.aman.TaskInitiator executeParallelTasks
+INFO: All tasks executed. Executing final task!
+Sep 28, 2018 11:27:29 AM com.aman.TaskInitiator executeUnitTask
+INFO: Executing unit task => task#31
+Sep 28, 2018 11:27:29 AM com.aman.TaskInitiator executeUnitTask
+INFO: Expected time of completion: 14s
+Sep 28, 2018 11:27:43 AM com.aman.TaskInitiator executeUnitTask
+INFO: Execution completed => task#31 executed successfully! Wait for 3 seconds before we move further.
